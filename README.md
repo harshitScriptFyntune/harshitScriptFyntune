@@ -1,4 +1,6 @@
-### Hi there 👋
+# HARSHIT BHAWSAR 🧜‍♂️
+An energetic Web developer with over 1 year of experience effectively building, managing and deploying projects from scratch to completion. Using my Web-development skills to increase overall organization's productivity.
+A greek - god - 
 
 <!--
 **harshitScriptFyntune/harshitScriptFyntune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
