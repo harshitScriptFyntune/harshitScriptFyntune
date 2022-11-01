@@ -10,7 +10,7 @@ An energetic Web developer with over 1 year of experience effectively building, 
   - Css3, Css-module, SaSS, Styled-components, Material-UI, React-bootstarp
 
 - #### BACK-END
-  - ExpressJs, NodeJs, EJS, MVC
+  - ExpressJs, NodeJs, REST, EJS, MVC
 
 - #### DATABASE
   - SQL/Realtional (MySQL), NoSQL/Non-Relational (MongoDb), Sequelize, Mongoose  
